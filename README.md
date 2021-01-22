@@ -1,4 +1,4 @@
-# tutorials
+# Tutorials
 This repository contains the examples that we created in our tutorial videos.
 
 ## Our Youtube channel:
